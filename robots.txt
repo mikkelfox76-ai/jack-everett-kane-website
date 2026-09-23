@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://jackeverettkane.com/sitemap.xml
+Sitemap: https://jack-everett-kane.netlify.app/sitemap.xml
