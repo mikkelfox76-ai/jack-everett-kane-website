@@ -1,19 +1,16 @@
 # Musikkvideoer (YouTube)
 
-Originalfilene ligger i `../Musikk Video/`. På nettsiden skal videoene **bygges inn fra YouTube**. Filene på 126–129 MB er for store til å legges på selve siden.
+Alle videoene bygges inn fra YouTube. Nyeste vises først på nettsiden.
+Kanal: https://www.youtube.com/@JackEverettKane
 
-## 1. Embers of the Alley Crown
-- YouTube-lenke: https://www.youtube.com/watch?v=f4j33DXseWQ
-- Fra album: 2
-- Originalfil: `Musikk Video/Embers Of The Alley Crown.mp4`
-- Kort tekst: [ ]
+| # | Video | Album | YouTube |
+|---|---|---|---|
+| (venter) | Borrowed Breath | Darker Than Water | https://www.youtube.com/watch?v=qRNaatsozb4 |
+| (venter) | Burn Holy (Jeanne d'Arc) | More Stories to Tell | https://www.youtube.com/watch?v=b91f5D7_v3I |
+| 3 | The Alamo (Dust Remembers) | I'll Tell You a Story | https://www.youtube.com/watch?v=S-zxDP8e8zQ |
+| 4 | The Fire Was Never Yours | Songs from the Edge of Nowhere | https://www.youtube.com/watch?v=t06amFFX458 |
+| 5 | Embers of the Alley Crown | A Soul Walks Home at Midnight | https://www.youtube.com/watch?v=f4j33DXseWQ |
 
-## 2. The Fire Was Never Yours
-- YouTube-lenke: https://www.youtube.com/watch?v=t06amFFX458
-- Fra album: 5
-- Originalfil: `Musikk Video/The Fire Was Never Yours.mp4`
-- Kort tekst: [ ]
+**Venter:** Borrowed Breath og Burn Holy er ikke offentlige på YouTube ennå. Legg dem inn på nettsiden når de er publisert.
 
-## Andre videoer (valgfritt)
-Du har også mange korte Spotify Canvas- og TikTok-klipp. Et par av dem kan brukes som stille bakgrunnsvideo i hero-seksjonen. Da må de komprimeres kraftig.
-- Kandidat: `Bilder og blanding/Cathedral of breath.mp4`
+Ny video? Legg den øverst i tabellen og som et nytt `video-card` først i `#videos` i index.html.
